@@ -2,7 +2,7 @@
 
 ## Overview
 
-In 1962, Simon Kuznets — the economist credited with developing GDP — wrote: "Distinctions must be kept in mind between quantity and quality of growth, between its costs and return, and between the short and the long term. Goals for more growth should specify more growth of what and for what." He was cautioning against exactly what has since occurred: GDP becoming the default measure of economic health and, by extension, human welfare.
+In 1962, Simon Kuznets — the economist credited with developing GDP — wrote (New Republic, 1962): "Distinctions must be kept in mind between quantity and quality of growth, between its costs and return, and between the short and the long term. Goals for more growth should specify more growth of what and for what." He was cautioning against exactly what has since occurred: GDP becoming the default measure of economic health and, by extension, human welfare.
 
 This analysis tests one concrete dimension of that claim. Using quarterly U.S. data from 1963 through 2024, it examines whether GDP growth — the dominant signal of economic health in policy discourse — correlates with improved housing affordability for typical American households. Housing affordability is measured using the Median Multiple, the ratio of median home price to median household income, and serves as a proxy for middle-class economic stability.
 
